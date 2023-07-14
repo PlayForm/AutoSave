@@ -5,4 +5,4 @@ description = "Auto save for git."
 license = "MIT"
 
 [dependencies]
-clap = "4.3.11"
+clap = "4.3.12"
