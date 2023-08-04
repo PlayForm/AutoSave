@@ -4,5 +4,8 @@ version = "0.0.1"
 description = "Auto save for git."
 license = "MIT"
 
+[build]
+target-dir = "Target"
+
 [dependencies]
 clap = "4.3.19"
