@@ -8,4 +8,8 @@ license = "MIT"
 target-dir = "Target"
 
 [dependencies]
-clap = "4.3.19"
+clap = "4.5.1"
+
+[[bin]]
+name = "Build"
+path = "build.rs"
